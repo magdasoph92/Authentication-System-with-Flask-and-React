@@ -75,23 +75,23 @@ const Dashboard = ({name}) => {
             <div className="folder-icons">
               <div className="avatar">
                 <div className="online"></div>
-                <img src="https://randomuser.me/api/portraits/women/65.jpg" />
+                <img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/08/michelle.jpg" />
               </div>
-              <div className="names">Don Allen</div>
+              <div className="names">Michelle Yeoh</div>
             </div>
             <div className="folder-icons">
               <div className="avatar">
                 <div className="online"></div>
-                <img src="https://randomuser.me/api/portraits/women/71.jpg" />
+                <img src="https://images.mubicdn.net/images/cast_member/25476/cache-2447-1478101707/image-w856.jpg" />
               </div>
-              <div className="names">Aaron Tim</div>
+              <div className="names">Jackie Chan</div>
             </div>
             <div className="folder-icons">
               <div className="avatar">
                 <div className="online red"></div>
-                <img src="https://randomuser.me/api/portraits/men/54.jpg" />
+                <img src="https://cdn2.excelsior.com.mx/media/styles/image800x600/public/pictures/2023/07/19/2980502.jpg" />
               </div>
-              <div className="names">Jack Joe</div>
+              <div className="names">Bruce Lee</div>
             </div>
             <div className="folders">Labels</div>
             <div className="section1">
