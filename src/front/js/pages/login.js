@@ -50,7 +50,7 @@ const Login = () => {
     const login = await actions.loginUser(user);
     console.log(login);
     if (login) {
-      alert("Login was successfully");
+      alert("Login was successful");
       navigate("/private");
     } else {
       alert("Unable to login");
